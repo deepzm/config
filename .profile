@@ -6,6 +6,8 @@ alias gph='git push origin'
 alias gpl='git pull --rebase'
 alias fm='cd ~/work/acx/projects/field-management'
 alias cl='cd ~/work/acx/projects/checklists'
+alias xsa='cd ~/work/poricha-kozhis/x-school-api'
+alias xsm='cd ~/work/poricha-kozhis/x-school-mobile'
 
 # Git branch in prompt.
 parse_git_branch() {
